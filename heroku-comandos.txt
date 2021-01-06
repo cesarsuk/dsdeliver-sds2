@@ -1,0 +1,4 @@
+heroku login
+heroku git:remote -a c3sar-dsdeliver-sds2
+git remote -v
+git subtree push --prefix backend heroku main

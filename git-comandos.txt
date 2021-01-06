@@ -1,0 +1,11 @@
+Git
+
+- ls (lista)
+- git config --global user.email "juliocesaoguimaraes@gmail.com" (loga a conta)
+- git init (cria arquivo git)
+- git add . (preparando arqivos para commit)
+- git commit -m "Project created" (commits)
+- git log --oneline (lista os commits realizados)
+- git remote add origin https://github.com/cesarsuk/dsdeliver-sds2.git (associa o projeto pelo gitbash)
+- git branch -M main (trocando de master para main)
+- git push -u origin main (manda para o github)

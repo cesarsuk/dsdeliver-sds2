@@ -1,0 +1,19 @@
+postgres://
+
+tqneldqbcjtqgn (usuário)
+
+:
+
+336c0d16814cc402e65a472591a1f4632629f24ddd46d0b9865882dd69cd5c9a (senha)
+
+@
+
+ec2-3-231-241-17.compute-1.amazonaws.com (host)
+
+:
+
+5432 (porta)
+
+/
+
+d7o0hac8nopc00 (nome da base)
