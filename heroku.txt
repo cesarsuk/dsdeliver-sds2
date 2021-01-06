@@ -1,0 +1,21 @@
+postgres:
+
+//
+
+vekpnlammljugh (usuario)
+
+:
+
+23d4ea4f5f8f758c02188c7a03174a689979b42469d91903f89453bda50abe4e (senha)
+
+@
+
+ec2-54-156-73-147.compute-1.amazonaws.com (host)
+
+:
+
+5432 (porta)
+
+/
+
+dd151dohsmaeh9 (database)
