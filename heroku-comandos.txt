@@ -1,4 +1,4 @@
-heroku login
-heroku git:remote -a c3sar-dsdeliver-sds2
-git remote -v
-git subtree push --prefix backend heroku main
+heroku login (comando para abrir o login)
+heroku git:remote -a c3sar-dsdeliver-sds2 (associando banco do heroku)
+git remote -v (visualizando banco relacionados)
+git subtree push --prefix backend heroku main (mandando arquivos para o banco heroku)
