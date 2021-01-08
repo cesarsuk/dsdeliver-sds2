@@ -3,3 +3,5 @@ npx create-react-app front-web --template typescript --use-npm (criando projeto 
 npm install react-router-dom (rotas para web)
 
 npm install @types react-router-dom (rotas para web dependencia em typescript)
+
+npm install axios (dependencia para consumo de dados)
