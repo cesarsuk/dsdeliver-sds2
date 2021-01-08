@@ -1,1 +1,5 @@
 npx create-react-app front-web --template typescript --use-npm (criando projeto react com dependencia typescript e especificando o uso do npm)
+
+npm install react-router-dom (rotas para web)
+
+npm install @types react-router-dom (rotas para web dependencia em typescript)
