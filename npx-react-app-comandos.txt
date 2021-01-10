@@ -1,0 +1,4 @@
+npm install --global expo-cli (instalando expo)
+
+expo init front-mobile -t expo-template-blank-typescript --npm (criando o arquivo mobile com dependencia em typescript)
+ 
