@@ -3,9 +3,9 @@ import { StyleSheet, Text, View } from 'react-native';
 import Header from './src/Header';
 import { useFonts, OpenSans_400Regular, OpenSans_700Bold} from '@expo-google-fonts/open-sans';
 import AppLoading from "expo-app-loading"
-import Home from './src/Home';
 import Routes from './src/Routes';
-
+import "intl"
+import "intl/locale-data/jsonp/en"
 
 export default function App() {
 
