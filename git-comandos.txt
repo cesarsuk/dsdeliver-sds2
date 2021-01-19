@@ -6,6 +6,6 @@ Git
 - git add . (preparando arqivos para commit)
 - git commit -m "Project created" (commits)
 - git log --oneline (lista os commits realizados)
-- git remote add origin https://github.com/cesarsuk/dsdeliver-sds2.git (associa o projeto pelo gitbash)
+- git remote add origin https://github.com/c3saroliveira/dsdeliver-sds2.git (associa o projeto pelo gitbash)
 - git branch -M main (trocando de master para main)
 - git push -u origin main (manda para o github)
