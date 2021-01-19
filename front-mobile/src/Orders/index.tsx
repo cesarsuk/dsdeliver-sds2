@@ -40,7 +40,10 @@ function Orders() {
     <Header/>
     <ScrollView style={styles.container}>
       {isLoading ? (
-        <Text>Buscando pedidos...</Text>
+        <View style={styles.loading}>
+           <Text style={styles.text} >Buscando pedidos...</Text>
+        </View>
+         
       ): (orders.map(order =>(
         <TouchableWithoutFeedback 
           key={order.id} 
@@ -60,6 +63,16 @@ const styles = StyleSheet.create({
       container: {
         paddingRight: "5%",
         paddingLeft: "5%"
+      },
+
+      loading: {
+        height: 750,
+        justifyContent: "center",
+        alignItems: "center",       
+      },
+
+      text: {
+          fontFamily: "OpenSans_700Bold"
       }
  
 });
