@@ -29,7 +29,7 @@ O Projeto consiste num sistema de registro e entrega de pedidos. Utilizamos Java
 - Expo
 ## Implantação em produção
 - Back end: Heroku
-- Front end web: Netlify
+- Front web: Netlify
 - Banco de dados: Postgresql
 
 
