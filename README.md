@@ -1,4 +1,4 @@
-# DS Delivery 
+# DS Delivery :motor_scooter:	
 
 [![NPM](https://img.shields.io/npm/l/react)](https://github.com/c3saroliveira/dsdeliver-sds2/blob/main/LICENSE) 
 
